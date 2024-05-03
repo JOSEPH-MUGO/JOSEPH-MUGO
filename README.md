@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm JOSEPH MUGO</h1>
-<h3 align="center">A passionate Web and Software developer</h3>
+<h1 align="center">Hi 👋, I'm <span style="span{color:#00ffee;"> JOSEPH MUGO</span></h1>
+<h3 align="center">I'm a passionate computer enthusiast with a deep focus on software and web programming. Currently, am in  third year student at Tharaka University pursuing bachelor of science in computer science</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joseph-mugo" alt="joseph-mugo" /></a> </p>
 
