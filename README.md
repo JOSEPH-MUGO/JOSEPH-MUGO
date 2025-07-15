@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <span style="span{color:#00ffee;"> JOSEPH MUGO</span></h1>
-<h3 align="center">I'm a passionate computer enthusiast with a deep focus on software and web programming. Currently, I'm a third year student at Tharaka University pursuing bachelor of science in computer science</h3>
+<h3 align="center">I'm a passionate computer enthusiast with a deep focus on software, web programming and AI solutions. I recently completed my computer science coursework at Tharaka University. I am looking for an avenue to grow my career and practice theoretical knowledge harnessed during coursework.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joseph-mugo" alt="joseph-mugo" /></a> </p>
 
