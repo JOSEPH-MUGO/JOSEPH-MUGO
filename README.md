@@ -1,13 +1,12 @@
-<h1 align="center">Hi 👋, I'm <span style="span{color:#00ffee;"> JOSEPH MUGO</span></h1>
+<h1 align="center">Hello 👋, I'm <span style="span{color:#00ffee;"> JOSEPH MUGO</span></h1>
 <h3 align="center">I'm a passionate computer enthusiast with a deep focus on software, web programming and AI solutions. I recently completed my computer science coursework at Tharaka University. I am looking for an avenue to grow my career and practice theoretical knowledge harnessed during coursework.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joseph-mugo" alt="joseph-mugo" /></a> </p>
 
-- 🌱 I’m currently learning **Django,Rudy and rail,Flutter,Machine Learning**
-
-- 📫 How to reach me **josephithanwa@gmail.com**
+- 🌱 I’m currently learning **AI,Deep Learning and Machine Learning**
 
 <h3 align="left">Connect with me:</h3>
+- 📫 How to reach me **josephithanwa@gmail.com**
 <p align="left">
 <a href="https://linkedin.com/in/josephmugoithanwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josephmugoithanwa" height="30" width="40" /></a>
 </p>
